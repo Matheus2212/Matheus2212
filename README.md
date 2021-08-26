@@ -84,9 +84,9 @@ Curiosidade é o que me move!
 <div>
   <a href="https://github.com/Matheus2212" align="center">
    
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus2212&theme=tokyonight&hide_border=true&background=101A26&stroke=FFFFFF&border=FFFFFF&ring=E4562B&fire=1051E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=1051E5" alt="Math" />
+   <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus2212&theme=tokyonight&hide_border=true&background=101A26&stroke=FFFFFF&border=FFFFFF&ring=E4562B&fire=1051E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=1051E5" alt="Math" />
    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus2212&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide_border=true" alt="Math"/>
+   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus2212&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide_border=true" alt="Math"/>
       
  </a>
 </div>
