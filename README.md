@@ -10,19 +10,19 @@ Curiosidade é o que me move!
 
  ##
 
- <div>
-  <a href="https://github.com/Matheus2212" align="center">
-   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus2212&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide_border=true" alt="Math"/>
-      <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus2212&theme=tokyonight&hide_border=true&background=101A26&stroke=FFFFFF&border=FFFFFF&ring=E4562B&fire=1051E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=1051E5" alt="Math" />
- </a>
-</div>
 
-  
-  ##
-  
-  <div align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2212&layout=compact&langs_count=7&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true"/><br/><br/>
- <div>
+<!-- most used start -->
+<div align="center"> 
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2212&layout=compact&langs_count=7&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true"/>
+ 
+</div>
+<!-- most used end -->
+
+##
+
+<!-- icons start -->
+<div align="center">
   
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
@@ -68,25 +68,43 @@ Curiosidade é o que me move!
   
   <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   
-  <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
- 
-  
+  <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   
   <img align="center" alt="Math-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   
   <img align="center" alt="Math-ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   
 </div>
+
+<!-- icons end -->
+
+##
+
+<!-- stats start -->
+<div>
+  <a href="https://github.com/Matheus2212" align="center">
+   
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus2212&theme=tokyonight&hide_border=true&background=101A26&stroke=FFFFFF&border=FFFFFF&ring=E4562B&fire=1051E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=1051E5" alt="Math" />
+   
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus2212&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide_border=true" alt="Math"/>
+      
+ </a>
 </div>
+
+<!-- stats end -->
   
   ##
  
+ <!-- social start -->
 <div align="center">
   <a href="https://instagram.com/matheus.f_marques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus.f.marques1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-fmarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <!--![Snake animation](https://github.com/Matheus2212/Matheus2212/blob/output/github-contribution-grid-snake.svg)-->
+ <!-- social end -->
+ 
+ ##
+ 
+  ![Snake animation](https://github.com/Matheus2212/Matheus2212/blob/output/github-contribution-grid-snake.svg)
  
 </div>
