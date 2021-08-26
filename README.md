@@ -4,7 +4,7 @@ Atualmente estudando AWS, IONIC, TypeScript e Node.js.
 
 Sou programador FullStack, e o que me atiça é entender o processo por baixo do pano. 
 
-Tem bastante coisa aqui nos repos que mostra um pouco a trajetória que segui, e o que tentei fazer do zero - justamente pra ver se entendi o processo hahaha. 
+Tem bastante coisa aqui nos repos que mostra um pouco a trajetória que segui, e o que tentei fazer do zero - **justamente pra ver se entendi o processo hahaha**. 
 
 Curiosidade é o que me move!
 
