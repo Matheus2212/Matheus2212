@@ -1,14 +1,14 @@
-## Olá! 
 
-# Eu sou o Matheus Marques
 
-Atualmente estudando AWS, IONIC, TypeScript e Node.js.
+# Hello! I'm Matheus :-)
 
-Sou programador FullStack, e o que me atiça é entender o processo por baixo do pano. 
+I'm currently studying AWS, IONIC, TypeScript and Node.js. Oh, Chrome extensions too.
 
-Tem bastante coisa aqui nos repos que mostra um pouco a trajetória que segui, e o que tentei fazer do zero - **justamente pra ver se entendi o processo hahaha**. 
+I'm a FullStack developer, driven by curiosity and the need to understand how the proccess works. 
 
-Curiosidade é o que me move!
+There's plenty stuff here on my repos which shows the challenges I already had and how I solved it. **Some stuff I made from scratch to understand how it works**.
+
+Enjoy!
 
  ##
 
