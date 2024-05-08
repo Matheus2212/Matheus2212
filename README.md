@@ -1,14 +1,14 @@
 
 
-# Hello! I'm Matheus :-)
+# Hello, I'm Matheus and I can help you to bring your project come true.
 
-I'm currently studying AWS, IONIC, TypeScript and Node.js. Oh, Chrome extensions too.
+I like to study a bit of everything. Most of the time I work with PHP, Python, React/React Native and .NET Framework. I enjoy creating Chrome extensions as personal projects as well.
 
-I'm a FullStack developer, driven by curiosity and the need to understand how the proccess works. 
+I'm a FullStack dev and I'm driven by curiosity and time saving stuff. I like to think that, to efficiently save time, you first need to "reinvent the wheel" to know how things works and be prepared of what you can/cannot do.
 
-There's plenty stuff here on my repos which shows the challenges I already had and how I solved it. **Some stuff I made from scratch to understand how it works**.
+How about you take a look at my public repos? Most of the stuff is the "reinvent the wheel" scenario to see what challenges might occur for specific purposes. **Almost all things I made from scratch, with a bare idea**.
 
-Enjoy!
+Thank you and enjoy!
 
  ##
 
