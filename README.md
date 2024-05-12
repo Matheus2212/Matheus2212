@@ -10,6 +10,10 @@ I'm a FullStack dev and I'm driven by curiosity and time saving stuff. I'm curre
 
 I worked with GA4, GTM and marketing related stuff for almost all types of websites, so if you need a report of any kind, you may consider me as an option. I also developed entire modules for existing projects based on PHP and created a whole platform in DJango along with React for a logistic company at my town. You can search for "Rodo Aves" in playstore and, case you want a challenge, try hack me here: https://app.rodoaves.com.br
 
+Oh but if you're into fitness, you can also search for "Corrida Calibrada" in either Google Play or App Store. By doing so, case you want to check out other features the app has, you may consider a subscription there.
+
+##
+
 Want to take a look at my public repos? Most of if has the "reinvent the wheel" scenario aplied. **Almost all things I made from scratch, with a bare idea of how to achieve something**.
 
 That's it. 
