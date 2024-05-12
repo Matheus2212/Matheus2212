@@ -1,14 +1,20 @@
 
 
-# Hello, I'm Matheus and I can help you to bring your project come true.
+# Want to bring your project come true? 
 
-I like to study a bit of everything. Most of the time I work with PHP, Python, React/React Native and .NET Framework. I enjoy creating Chrome extensions as personal projects as well.
+## Hello, I'm Matheus and I can help you achieve that.
 
-I'm a FullStack dev and I'm driven by curiosity and time saving stuff. I like to think that, to efficiently save time, you first need to "reinvent the wheel" to know how things works and be prepared of what you can/cannot do.
+I enjoy to study IT. Most of the time I work with PHP, Python, React/React Native and .NET Framework. I enjoy creating Chrome extensions as personal projects as well, like the GTM Watson on Chrome webstore.
 
-How about you take a look at my public repos? Most of the stuff is the "reinvent the wheel" scenario to see what challenges might occur for specific purposes. **Almost all things I made from scratch, with a bare idea**.
+I'm a FullStack dev and I'm driven by curiosity and time saving stuff. I'm currently graduating as a Software Engineer and Cyber Security Engineer - and that's the reason why I don't put lots of stuff in social media. I like to think that, to efficiently save time, you first need to "reinvent the wheel" to know how things works and be prepared of what you can/cannot do. Needless to say, doing so gave me the best experiences as a developer.
 
-Thank you and enjoy!
+I worked with GA4, GTM and marketing related stuff for almost all types of websites, so if you need a report of any kind, you may consider me as an option. I also developed entire modules for existing projects based on PHP and created a whole platform in DJango along with React for a logistic company at my town. You can search for "Rodo Aves" in playstore and, case you want a challenge, try hack me here: https://app.rodoaves.com.br
+
+Want to take a look at my public repos? Most of if has the "reinvent the wheel" scenario aplied. **Almost all things I made from scratch, with a bare idea of how to achieve something**.
+
+That's it. 
+
+Enjoy!
 
  ##
 
@@ -46,8 +52,6 @@ Thank you and enjoy!
   
   <img align="center" alt="Math-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   
-  <img align="center" alt="Math-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  
   <img align="center" alt="Math-Wordpres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   
   <img align="center" alt="Math-Woocommerce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">
@@ -60,8 +64,6 @@ Thank you and enjoy!
   
   <img align="center" alt="Math-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   
-  <img align="center" alt="Math-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  
   <img align="center" alt="Math-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   
   <img align="center" alt="Math-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
@@ -71,8 +73,6 @@ Thank you and enjoy!
   <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   
   <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  
-  <img align="center" alt="Math-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   
   <img align="center" alt="Math-ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   
