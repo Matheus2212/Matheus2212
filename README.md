@@ -2,23 +2,32 @@
 
 # Want to bring your project come true? 
 
-## Hello, I'm Matheus and I can help you achieve that.
+## Hello, I'm Matheus and I can help you to achieve that.
 
-I enjoy to study IT. Most of the time I work with PHP, Python, React/React Native and .NET Framework. I enjoy creating Chrome extensions as personal projects as well, like the GTM Watson on Chrome webstore.
+I worked for manny types of companies in the past, such as Marketing agencies, startups, CRO agencies, Software companies and much more.
 
-I'm a FullStack dev and I'm driven by curiosity and time saving stuff. I'm currently graduating as a Software Engineer and Cyber Security Engineer - and that's the reason why I don't put lots of stuff in social media. I like to think that, to efficiently save time, you first need to "reinvent the wheel" to know how things works and be prepared of what you can/cannot do. Needless to say, doing so gave me the best experiences as a developer.
+I am the founder of MAGE Systems, an on demand software development company based in Brazil. Let's get in touch!
 
-I worked with GA4, GTM and marketing related stuff for almost all types of websites, so if you need a report of any kind, you may consider me as an option. I also developed entire modules for existing projects based on PHP and created a whole platform in DJango along with React for a logistic company at my town. You can search for "Rodo Aves" in playstore and, case you want a challenge, try hack me here: https://app.rodoaves.com.br
+My main development languages are PHP, Python, React/React Native, .NET Framework and Node. One of my hobbies are to create Browser extensions of any kinds, like the GTM Watson on Chrome webstore (ooh I miss Manifest v2...).
 
-Oh but if you're into fitness, you can also search for "Corrida Calibrada" in either Google Play or App Store. By doing so, case you want to check out other features the app has, you may consider a subscription there.
+I'm a FullStack developer driven by curiosity, so I like to think I am very versatile. I'm currently getting prepare for a Hacking certification.
+
+I like to think that, to fully understand something, you first need to "reinvent the wheel". Needless to say, but doing so gave me the best experiences as a developer because I felt for real the challenges that were present while creating the "wheel".
+
+I worked with BigQuery, GA4, GTM and marketing related technologies and platforms for almost 4 years, creating manny reports and queries. 
+I developed entire modules for existing projects based on PHP, Python or Node, and created a whole platform in DJango along with React and React Native for a logistic company at my town. 
+
+I also developed the hiking app "Corrida Calibrada" for Raquel Castanharo, which is available on both Google Play and App Store.
+
+In 2024 I published my first browser extension on Chrome WebStore, so if you're curious check out "GTM Watson".
 
 ##
 
-Want to take a look at my public repos? Most of if has the "reinvent the wheel" scenario aplied. **Almost all things I made from scratch, with a bare idea of how to achieve something**.
+My public repositories have the "reinvent the wheel" scenario aplied. **Almost all things I made from scratch, with just an idea and a goal to achieve**.
 
-That's it. 
+That's it. Hope we get in touch soon!
 
-Enjoy!
+Take care.
 
  ##
 
