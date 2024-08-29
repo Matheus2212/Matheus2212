@@ -1,35 +1,47 @@
 
 
-# Want to bring your project come true? 
+# Hello, I'm Matheus :wave:
 
-## Hello, I'm Matheus and I can help you to achieve that.
+## I'm a Fullstack developer with 8 years experience.
 
-I worked for manny types of companies in the past, such as Marketing agencies, startups, CRO agencies, Software companies and much more.
+I have worked with digital marketing agencies, startups, commercial companies, CRO agencies, Development companies and much more. 
 
-I am the founder of MAGE Systems, an on demand software development company based in Brazil. Let's get in touch!
+My main development languages are PHP, Python, React/React Native, .NET Framework and NodeJS. One of my hobbies is to create Browser extensions of any kinds or develop apps to help me on my daily use.
 
-My main development languages are PHP, Python, React/React Native, .NET Framework and Node. One of my hobbies are to create Browser extensions of any kinds, like the GTM Watson on Chrome webstore (ooh I miss Manifest v2...).
+I'm driven by curiosity, so I like to think I am very versatile. 
 
-I'm a FullStack developer driven by curiosity, so I like to think I am very versatile. I'm currently getting prepare for a Hacking certification.
-
-I like to think that, to fully understand something, you first need to "reinvent the wheel". Needless to say, but doing so gave me the best experiences as a developer because I felt for real the challenges that were present while creating the "wheel".
+I like to think that, to fully understand something, you first need to "reinvent the wheel".
 
 I worked with BigQuery, GA4, GTM and marketing related technologies and platforms for almost 4 years, creating manny reports and queries. 
-I developed entire modules for existing projects based on PHP, Python or Node, and created a whole platform in DJango along with React and React Native for a logistic company at my town. 
+I developed entire modules for existing projects based on PHP, Python or NodeJS, and created a whole platform in DJango along with React and React Native for a logistic company at my town. 
 
-I also developed the hiking app "Corrida Calibrada" for Raquel Castanharo, which is available on both Google Play and App Store.
+---
 
-In 2024 I published my first browser extension on Chrome WebStore, so if you're curious check out "GTM Watson".
+## Personal Projects
 
-##
+* Rolômetro ((Android)[https://play.google.com/store/apps/details?id=com.mallix.rolometro]): This is my first joke app to be published. It downloads a hand model for image recognition, then scan your hand, and based on the fingertips size it tries to determine the 'feet' size. Totally based in my popular knowledge at my country.
 
-My public repositories have the "reinvent the wheel" scenario aplied. **Almost all things I made from scratch, with just an idea and a goal to achieve**.
+* GTM Watson ((Chrome extension)[https://chromewebstore.google.com/detail/gtm-watson/mmejcjjlincimgicadmipokeopbhbapa]): I often use DataLayer checker extensions to find out what exactly is being pushed to dataLayer variables on frontend. Sadly, one of my favorites extensions is going to be discontinued soon, so I decided to make own for this use. The thing I like to use the most is to inject other GTM containers on the page, but manifest V3 made it hard to be achieved now, so I took it as a personal challenge. So, *yes, my extension loads up remote GTM code into the page*
 
-That's it. Hope we get in touch soon!
+---
 
-Take care.
+## Other projects
 
- ##
+* Corrida Calibrada ((Android)[https://play.google.com/store/apps/details?id=com.corridacalibrada.app], (iOS)[https://apps.apple.com/br/app/corrida-calibrada/id6450933419]): This one is a hiking app developed for Raquel Castanharo, brazilian physioterapist that helped Adidas develop the shoe "Corre 1". This app creates a training calendar for hiking users, which can be adapted depending on the pain felt. It also shows some lessons about exercises and more. Developed with Ionic;
+
+* Rodo Aves ((Android)[https://play.google.com/store/apps/details?id=com.rodoaves.app], (Frontend)[http://app.rodoaves.com.br/]): Made with Ionic, Python/Django and React Native, I developed the project entire by myself since interview with the client until deployment. RodoAves is a logistic company at Concórdia, Santa Catarina, Brazil (my hometown). This software helps to gather information from every cargo so the decision makers have real time data on the go. The app also works offline and Synch whenever a connection is available.
+
+---
+
+## Additional info
+
+I took part into manny other projects, but most of it I'm not allowed to list here. I hope the above is suficient for you to decide if I am or not a good choice/fit for the job. 
+
+Thank for reading this far!
+
+Take care!
+
+ ---
 
 
 <!-- most used start -->
