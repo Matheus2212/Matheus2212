@@ -10,9 +10,9 @@ My main development languages are PHP, Python, React/React Native, .NET Framewor
 
 I'm driven by curiosity, so I like to think I am very versatile. 
 
-I like to think that, to fully understand something, you first need to "reinvent the wheel".
+I believe that to fully understand something you first need to "reinvent the wheel".
 
-I worked with BigQuery, GA4, GTM and marketing related technologies and platforms for almost 4 years, creating manny reports and queries. 
+I worked with BigQuery, GA4, GTM and marketing related technologies and platforms for almost 4 years, creating manny reports and queries, and helped manny companies gather data for further analysis.
 I developed entire modules for existing projects based on PHP, Python or NodeJS, and created a whole platform in DJango along with React and React Native for a logistic company at my town. 
 
 ---
