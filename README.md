@@ -37,7 +37,7 @@ I developed entire modules for existing projects based on PHP, Python or NodeJS,
 
 I took part into manny other projects, but most of it I'm not allowed to list here. I hope the above is suficient for you to decide if I am or not a good choice/fit for the job. 
 
-Thank for reading this far!
+Thank you for reading this far!
 
 Take care!
 
