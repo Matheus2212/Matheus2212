@@ -2,7 +2,7 @@
 
 # Hello, I'm Matheus :wave:
 
-## I'm a Fullstack developer with 8 years experience.
+## I'm a Fullstack developer with 9 years experience.
 
 I have worked with digital marketing agencies, startups, commercial companies, CRO agencies, Development companies and much more. 
 
