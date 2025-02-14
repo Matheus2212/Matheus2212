@@ -6,7 +6,7 @@
 
 I have worked with digital marketing agencies, startups, commercial companies, CRO agencies, Development companies and much more. 
 
-My main development languages are PHP, Python, React/React Native, .NET Framework and NodeJS. One of my hobbies is to create Browser extensions of any kinds or develop apps to help me on my daily use.
+My main development languages are PHP, Python, React/React Native, .NET Framework and NodeJS. One of my hobbies is creating browser extensions of all kinds or develop apps to help on my daily use.
 
 I'm driven by curiosity, so I like to think I am very versatile. 
 
