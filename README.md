@@ -19,9 +19,9 @@ I developed entire modules for existing projects based on PHP, Python or NodeJS,
 
 ## Personal Projects
 
-* Rolômetro ([Android](https://play.google.com/store/apps/details?id=com.mallix.rolometro)): This is my first joke app to be published. It downloads a hand model for image recognition, then scan your hand, and based on the fingertips size it tries to determine the 'feet' size. Totally based in popular knowledge at my country.
+* Rolômetro ([Android](https://play.google.com/store/apps/details?id=com.mallix.rolometro)) (100+ downloads): This is my first joke app to be published. It downloads a hand model for image recognition, then scan your hand, and based on the fingertips size it tries to determine the 'feet' size. Totally based in popular knowledge at my country.
 
-* GTM Watson ([Chrome extension](https://chromewebstore.google.com/detail/gtm-watson/mmejcjjlincimgicadmipokeopbhbapa)): I often use DataLayer checker extensions to find out what exactly is being pushed to dataLayer variables on frontend. Sadly, one of my favorites extensions is going to be discontinued soon, so I decided to make my own for this use. The thing I like the most is to inject other GTM containers on the page, but manifest V3 made it hard to be achieved now, so I took it as a personal challenge. So, *yes, my extension loads up remote code into the page*
+* GTM Watson ([Chrome extension](https://chromewebstore.google.com/detail/gtm-watson/mmejcjjlincimgicadmipokeopbhbapa)) (500+ users): I often use DataLayer checker extensions to find out what exactly is being pushed to dataLayer variables on frontend. Sadly, one of my favorites extensions is going to be discontinued soon, so I decided to make my own for this use. The thing I like the most is to inject other GTM containers on the page, but manifest V3 made it hard to be achieved now, so I took it as a personal challenge. So, *yes, my extension loads up remote code into the page*
 
 ---
 
