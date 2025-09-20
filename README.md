@@ -27,7 +27,7 @@ I developed entire modules for existing projects based on PHP, Python or NodeJS,
 
 ## Other projects
 
-* Corrida Calibrada ([Android](https://play.google.com/store/apps/details?id=com.corridacalibrada.app), [iOS](https://apps.apple.com/br/app/corrida-calibrada/id6450933419)): This one is a hiking app developed for Raquel Castanharo, brazilian physioterapist that helped Adidas develop the shoe "Corre 1". This app creates a training calendar for hikers, which can be adapted depending on the region where pain is felt and it's intensity. It also shows some lessons about exercises and more. Developed with Ionic and Python/Django;
+* Corrida Calibrada ([Android](https://play.google.com/store/apps/details?id=com.corridacalibrada.app), [iOS](https://apps.apple.com/br/app/corrida-calibrada/id6450933419)): This one is a hiking app developed for Raquel Castanharo, brazilian physioterapist that helped Olympikus develop the shoe "Corre 1". This app creates a training calendar for hikers, which can be adapted depending on the region where pain is felt and it's intensity. It also shows some lessons about exercises and more. Developed with Ionic and Python/Django;
 
 * Rodo Aves ([Android](https://play.google.com/store/apps/details?id=com.rodoaves.app), [Frontend](http://app.rodoaves.com.br/)): Made with Ionic, Python/Django and React Native, I developed the project entire by myself since interview with the client until deployment. RodoAves is a logistic company at Concórdia, Santa Catarina, Brazil (my hometown). This software helps to gather information from every cargo so the decision makers have real time data on the go. The app is dedicated to the truck driver, so it works offline and synch data whenever a connection is available.
 
