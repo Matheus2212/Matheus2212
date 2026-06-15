@@ -23,6 +23,10 @@ I developed entire modules for existing projects based on PHP, Python or NodeJS,
 
 * GTM Watson ([Chrome extension](https://chromewebstore.google.com/detail/gtm-watson/mmejcjjlincimgicadmipokeopbhbapa)) (500+ users): I often use DataLayer checker extensions to find out what exactly is being pushed to dataLayer variables on frontend. Sadly, one of my favorites extensions is going to be discontinued soon, so I decided to make my own for this use. The thing I like the most is to inject other GTM containers on the page, but manifest V3 made it hard to be achieved now, so I took it as a personal challenge. So, *yes, my extension loads up remote code into the page*
 
+* Throw Catcher ([Chrome extension](https://chromewebstore.google.com/detail/throw-catcher/enlpgdagjdfhffolomjncgbmobonkbbk)) (2 users) (new): This is a counter I created when developing A/B tests on a website. It counts DOM changes, JS errors and HTTP requests. Very usefull to see if there is anything that might cause a problem on the frontend side or experiment.
+
+* Carta de Amor ([Website / SaaS](https://cartadeamor.online)) (50+ paid users): This is my first SaaS. It lets you create love letters for your beloved ones within a wide range of letter themes. It is very emotional when combined within a surprise due the QR code. I learned a lot with this project - especially when it is to drive organic traffic to it.
+
 ---
 
 ## Other projects
@@ -35,7 +39,7 @@ I developed entire modules for existing projects based on PHP, Python or NodeJS,
 
 ## Additional info
 
-I took part into manny other projects, but most of it I'm not allowed to list here. I hope the above is suficient for you to decide if I am or not a good choice/fit for the job. 
+I took part into manny other projects but most of it I'm not allowed to list here. I hope the above is suficient for you to decide if I am or not a good choice/fit for the job. 
 
 Thank you for reading this far!
 
