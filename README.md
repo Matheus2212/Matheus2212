@@ -1,129 +1,55 @@
+# Hello, I'm Matheus 👋
 
+## Fullstack developer with 10+ years of experience
 
-# Hello, I'm Matheus :wave:
+I build web and mobile applications end to end — from the first client conversation to deployment. I've worked with digital marketing agencies, startups, CRO agencies, software houses, and commercial companies of all sizes.
 
-## I'm a Fullstack developer with 10+ years experience.
+**Main stack:** PHP (Laravel), Python (Django), JavaScript/TypeScript (React, React Native, Node.js), and .NET Framework.
 
-I have worked with digital marketing agencies, startups, commercial companies, CRO agencies, Development companies and much more. 
+I'm driven by curiosity, which makes me a very versatile developer. I believe that to fully understand something, you first need to "reinvent the wheel" — that's why I often build my own tools, browser extensions, and apps for daily use. Currently, I'm studying cyber security for web applications and best practices.
 
-My main development languages are PHP, Python, React/React Native, .NET Framework and NodeJS. One of my hobbies is creating browser extensions of all kinds or develop apps to help on my daily use.
+**Highlights:**
 
-I'm driven by curiosity, so I like to think I am very versatile. 
-
-I believe that to fully understand something you first need to "reinvent the wheel".
-
-I worked with BigQuery, GA4, GTM and marketing related technologies and platforms for almost 4 years, creating manny reports and queries, and helped manny companies gather data for further analysis.
-I developed entire modules for existing projects based on PHP, Python or NodeJS, and created a whole platform in DJango along with React and React Native for a logistic company at my town. 
+- 🚚 Designed and built an entire logistics platform (Django + React + React Native) for a transport company — solo, from interview to deployment, including offline-first mobile sync
+- 📊 4 years working with BigQuery, GA4, GTM, and marketing platforms — building reports, queries, and data pipelines that helped companies make data-driven decisions
+- 🧩 Developed full modules for existing PHP, Python, and Node.js codebases
 
 ---
 
 ## Personal Projects
 
-* Rolômetro ([Android](https://play.google.com/store/apps/details?id=com.mallix.rolometro)) (100+ downloads): This is my first joke app to be published. It downloads a hand model for image recognition, then scan your hand, and based on the fingertips size it tries to determine the 'feet' size. Totally based in popular knowledge at my country.
+- **Carta de Amor** ([Website / SaaS](https://cartadeamor.online)) — 50+ paying users. My first SaaS: create themed love letters delivered via QR code for a surprise effect. This project taught me a lot, especially about driving organic traffic.
 
-* GTM Watson ([Chrome extension](https://chromewebstore.google.com/detail/gtm-watson/mmejcjjlincimgicadmipokeopbhbapa)) (500+ users): I often use DataLayer checker extensions to find out what exactly is being pushed to dataLayer variables on frontend. Sadly, one of my favorites extensions is going to be discontinued soon, so I decided to make my own for this use. The thing I like the most is to inject other GTM containers on the page, but manifest V3 made it hard to be achieved now, so I took it as a personal challenge. So, *yes, my extension loads up remote code into the page*
+- **GTM Watson** ([Chrome extension](https://chromewebstore.google.com/detail/gtm-watson/mmejcjjlincimgicadmipokeopbhbapa)) — 500+ users. A dataLayer inspector I built when my favorite debugging extension was discontinued. My favorite feature is injecting other GTM containers into the page — Manifest V3 made that quite hard, so I took it as a personal challenge (yes, my extension loads remote code into the page 😄).
 
-* Throw Catcher ([Chrome extension](https://chromewebstore.google.com/detail/throw-catcher/enlpgdagjdfhffolomjncgbmobonkbbk)) (2 users) (new): This is a counter I created when developing A/B tests on a website. It counts DOM changes, JS errors and HTTP requests. Very usefull to see if there is anything that might cause a problem on the frontend side or experiment.
+- **Rolômetro** ([Android](https://play.google.com/store/apps/details?id=com.mallix.rolometro)) — 100+ downloads. My first joke app: it downloads a hand-recognition model, scans your hand, and "estimates" a certain size based on your fingertips — inspired by popular folklore in Brazil.
 
-* Carta de Amor ([Website / SaaS](https://cartadeamor.online)) (50+ paid users): This is my first SaaS. It lets you create love letters for your beloved ones within a wide range of letter themes. It is very emotional when combined within a surprise due the QR code. I learned a lot with this project - especially when it is to drive organic traffic to it.
-
----
-
-## Other projects
-
-* Corrida Calibrada ([Android](https://play.google.com/store/apps/details?id=com.corridacalibrada.app), [iOS](https://apps.apple.com/br/app/corrida-calibrada/id6450933419)): This one is a hiking app developed for Raquel Castanharo, brazilian physioterapist that helped Olympikus develop the shoe "Corre 1". This app creates a training calendar for hikers, which can be adapted depending on the region where pain is felt and it's intensity. It also shows some lessons about exercises and more. Developed with Ionic and Python/Django;
-
-* Rodo Aves ([Android](https://play.google.com/store/apps/details?id=com.rodoaves.app), [Frontend](http://app.rodoaves.com.br/)): Made with Ionic, Python/Django and React Native, I developed the project entire by myself since interview with the client until deployment. RodoAves is a logistic company at Concórdia, Santa Catarina, Brazil (my hometown). This software helps to gather information from every cargo so the decision makers have real time data on the go. The app is dedicated to the truck driver, so it works offline and synch data whenever a connection is available.
+- **Throw Catcher** ([Chrome extension](https://chromewebstore.google.com/detail/throw-catcher/enlpgdagjdfhffolomjncgbmobonkbbk)) — A counter I created while developing A/B tests: it tracks DOM changes, JS errors, and HTTP requests, making it easy to spot anything that could break the frontend or the experiment.
 
 ---
 
-## Additional info
+## Client Projects
 
-I took part into manny other projects but most of it I'm not allowed to list here. I hope the above is suficient for you to decide if I am or not a good choice/fit for the job. 
+- **Corrida Calibrada** ([Android](https://play.google.com/store/apps/details?id=com.corridacalibrada.app), [iOS](https://apps.apple.com/br/app/corrida-calibrada/id6450933419)) — A running/training app developed for Raquel Castanharo, the Brazilian physiotherapist who helped Olympikus develop the "Corre 1" shoe. It generates adaptive training calendars based on where the runner feels pain and its intensity, plus exercise lessons. Built with Ionic and Python/Django.
 
-Thank you for reading this far!
+- **Rodo Aves** ([Android](https://play.google.com/store/apps/details?id=com.rodoaves.app), [Frontend](http://app.rodoaves.com.br/)) — A complete logistics platform for a transport company in Concórdia, SC, Brazil. I handled the entire project myself, from the first client interview to deployment. It gives decision makers real-time cargo data, while the driver app works fully offline and syncs whenever a connection is available. Built with Python/Django, React, React Native, and Ionic.
 
-Take care!
+---
 
- ---
+## More
 
+I've contributed to many other projects that I'm not allowed to list here due to NDAs — feel free to reach out if you'd like to know more.
 
-<!-- most used start -->
-<div align="center"> 
- 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2212&layout=compact&langs_count=7&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true"/>
- 
-</div>
-<!-- most used end -->
+📫 **Let's talk:** [LinkedIn](https://www.linkedin.com/in/matheus-fmarques/) · [matheus.f.marques1998@gmail.com](mailto:matheus.f.marques1998@gmail.com) · [magesystems.com.br](https://magesystems.com.br)
 
-##
+---
 
-<!-- icons start -->
-<div align="center">
-  
-  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="Math-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-  
-  <img align="center" alt="Math-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  
-  <img align="center" alt="Math-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  
-  <img align="center" alt="Math-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  
-  <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="center" alt="Math-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
-  <img align="center" alt="Math-Wordpres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  
-  <img align="center" alt="Math-Woocommerce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">
-  
-  <img align="center" alt="Math-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  
-  <img align="center" alt="Math-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
-  
-  <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  
-  <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  
-  <img align="center" alt="Math-ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2212&layout=compact&langs_count=7&bg_color=101a26&title_color=E45622&text_color=fff&icon_color=E45622&hide_border=true)](https://github.com/Matheus2212)
 
-<!-- icons end -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
 
-##
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Matheus2212&theme=tokyonight&hide_border=true&background=101A26&stroke=FFFFFF&border=FFFFFF&ring=E45622&fire=1051E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=1051E5)](https://github.com/Matheus2212) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus2212&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E45622&text_color=fff&icon_color=1051E5&hide_border=true)](https://github.com/Matheus2212)
 
-<!-- stats start -->
-<div>
-  <a href="https://github.com/Matheus2212" align="center">
-   
-   <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus2212&theme=tokyonight&hide_border=true&background=101A26&stroke=FFFFFF&border=FFFFFF&ring=E4562B&fire=1051E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=1051E5" alt="Math" />
-   
-   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus2212&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=1051E5&hide_border=true" alt="Math"/>
-      
- </a>
-</div>
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus.f_marques) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.f.marques1998@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fmarques/)
 
-<!-- stats end -->
-  
-  ##
- 
- <!-- social start -->
-<div align="center">
-  <a href="https://instagram.com/matheus.f_marques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheus.f.marques1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-fmarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- <!-- social end -->
- 
- ##
- 
-  ![Snake animation](https://github.com/Matheus2212/Matheus2212/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+[![Snake animation](https://github.com/Matheus2212/Matheus2212/raw/output/github-contribution-grid-snake.svg)](https://github.com/Matheus2212/Matheus2212/blob/output/github-contribution-grid-snake.svg)
